@@ -1,4 +1,4 @@
-This is the FIRST version of my Torrent-Like App
+This is the FIRST version of my Torrent-Like App.
 How far is it project:
 + Run in multiple devices in local area network (LAN)
 + Choking Algorithm
